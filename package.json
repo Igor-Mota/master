@@ -1,0 +1,7 @@
+{
+  "name": "local",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Igor Mota <igormota999@gmail.com>",
+  "license": "MIT"
+}
